@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3533210b-802a-4523-b9e6-4a112271d5c1" name="Default Changelist" comment="test 2">
-      <change afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/OrganiseData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISymptomReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/ISymptomReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadSymptomDataFromFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/ReadSymptomDataFromFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/hemebiotech/analytics/AnalyticsCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/AnalyticsCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/AnalyticsCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/AnalyticsCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/ISymptomReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/ISymptomReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Débuggez une application Java - OpenClassrooms.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hemebiotech/analytics/ISymptomReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/ISymptomReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hemebiotech/analytics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hemebiotech/analytics/OrganiseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/OrganiseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hemebiotech/analytics/ReadSymptomDataFromFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/ReadSymptomDataFromFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P2/Débuggez une application Java - OpenClassrooms.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/OrganiseData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/OrganiseData.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/ReadSymptomDataFromFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/ReadSymptomDataFromFile.class" afterDir="false" />
     </list>
-    <list id="0db6faff-6f43-458b-afe1-11fcf0205257" name="test 2" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/hemebiotech/analytics/AnalyticsCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/AnalyticsCounter.java" afterDir="false" />
-    </list>
+    <list id="0db6faff-6f43-458b-afe1-11fcf0205257" name="test 2" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,19 +34,6 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/com/hemebiotech/analytics/AnalyticsCounter.java">
-      <ranges>
-        <range start1="5" end1="5" start2="5" end2="9" changelist="0db6faff-6f43-458b-afe1-11fcf0205257" />
-        <range start1="9" end1="9" start2="13" end2="14" changelist="3533210b-802a-4523-b9e6-4a112271d5c1" />
-        <range start1="13" end1="13" start2="18" end2="22" changelist="0db6faff-6f43-458b-afe1-11fcf0205257" />
-        <range start1="14" end1="15" start2="23" end2="37" changelist="0db6faff-6f43-458b-afe1-11fcf0205257" />
-        <range start1="16" end1="16" start2="38" end2="47" changelist="0db6faff-6f43-458b-afe1-11fcf0205257" />
-        <range start1="17" end1="18" start2="48" end2="49" changelist="0db6faff-6f43-458b-afe1-11fcf0205257" />
-        <range start1="21" end1="21" start2="52" end2="55" changelist="3533210b-802a-4523-b9e6-4a112271d5c1" />
-      </ranges>
-    </file>
   </component>
   <component name="ProjectId" id="1v268i6cLPcYeQUQakU1JQwWdli" />
   <component name="ProjectLevelVcsManager">
