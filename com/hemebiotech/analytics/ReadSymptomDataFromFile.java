@@ -25,12 +25,12 @@ public class ReadSymptomDataFromFile implements ISymptomReader {
 	@Override
 	public List<String> GetSymptoms() {
 		ArrayList<String> result = new ArrayList<String>();
-		
+
 		if (filepath != null) {
 			try {
 				BufferedReader reader = new BufferedReader (new FileReader(filepath));
 				String line = reader.readLine();
-				
+
 				while (line != null) {
 					result.add(line);
 					line = reader.readLine();
@@ -40,8 +40,19 @@ public class ReadSymptomDataFromFile implements ISymptomReader {
 				e.printStackTrace();
 			}
 		}
-		
 		return result;
+	}
+
+	@Override
+	public int CountSymptoms(String symptom) {
+		// nombre d'occurance du symptome passé en parametre
+		int count = 0;
+		for (int i=0 ; i < this.GetSymptoms().size() ; i++) {
+			if (this.GetSymptoms().get(i).equals(symptom)){
+				count++;
+			}
+		}
+		return count;
 	}
 
 }
