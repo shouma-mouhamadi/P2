@@ -17,5 +17,10 @@ public interface ISymptomReader {
 	 * @return a raw listing of all Symptoms obtained from a data source, duplicates are possible/probable
 	 */
 	List<String> GetSymptoms ();
+	/**
+	 * If the symptom does not exist, the function returns 0
+	 *
+	 * @return the number of occurrences of a string in a list
+	 */
 	int CountSymptoms(String symptom);
 }

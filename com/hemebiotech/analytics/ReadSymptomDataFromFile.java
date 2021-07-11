@@ -8,31 +8,19 @@ import java.util.List;
 
 /**
  * Simple brute force implementation
- *
+ * @param filepath a full or partial path to file with symptom strings in it, one per line
  */
-public class ReadSymptomDataFromFile implements ISymptomReader {
+public record ReadSymptomDataFromFile(String filepath) implements ISymptomReader {
 
-	private final String filepath;
-	
-	/**
-	 * 
-	 * @param filepath a full or partial path to file with symptom strings in it, one per line
-	 */
-	public ReadSymptomDataFromFile (String filepath) {
-		this.filepath = filepath;
-	}
-	
 	@Override
 	public List<String> GetSymptoms() {
-		ArrayList<String> result = new ArrayList<String>();
-
+		ArrayList<String> symptomsList = new ArrayList<String>(); // add symptoms in a arraylist from a file
 		if (filepath != null) {
 			try {
-				BufferedReader reader = new BufferedReader (new FileReader(filepath));
+				BufferedReader reader = new BufferedReader(new FileReader(filepath));
 				String line = reader.readLine();
-
 				while (line != null) {
-					result.add(line);
+					symptomsList.add(line);
 					line = reader.readLine();
 				}
 				reader.close();
@@ -40,19 +28,17 @@ public class ReadSymptomDataFromFile implements ISymptomReader {
 				e.printStackTrace();
 			}
 		}
-		return result;
+		return symptomsList;
 	}
 
 	@Override
 	public int CountSymptoms(String symptom) {
-		// nombre d'occurance du symptome passé en parametre
-		int count = 0;
-		for (int i=0 ; i < this.GetSymptoms().size() ; i++) {
-			if (this.GetSymptoms().get(i).equals(symptom)){
-				count++;
+		int occurrences = 0; // count the number of occurrences of the symptom
+		for (int i = 0; i < this.GetSymptoms().size(); i++) {
+			if (this.GetSymptoms().get(i).equals(symptom)) {
+				occurrences++;
 			}
 		}
-		return count;
+		return occurrences;
 	}
-
 }
