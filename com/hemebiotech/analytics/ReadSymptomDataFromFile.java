@@ -8,6 +8,8 @@ import java.util.List;
 
 /**
  * Simple brute force implementation
+ *
+ * @author shouma-mouhamadi
  * @param filepath a full or partial path to file with symptom strings in it, one per line
  */
 public record ReadSymptomDataFromFile(String filepath) implements ISymptomReader {

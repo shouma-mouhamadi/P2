@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3533210b-802a-4523-b9e6-4a112271d5c1" name="Default Changelist" comment="test 2" />
+    <list default="true" id="3533210b-802a-4523-b9e6-4a112271d5c1" name="Default Changelist" comment="test 2">
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hemebiotech/analytics/OrganiseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/OrganiseData.java" afterDir="false" />
+    </list>
     <list id="0db6faff-6f43-458b-afe1-11fcf0205257" name="test 2" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PHEME_mouhamadi_shouma/PHEME_01_code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
