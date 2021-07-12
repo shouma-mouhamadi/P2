@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3533210b-802a-4523-b9e6-4a112271d5c1" name="Default Changelist" comment="test 2">
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mission.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/symptoms_out.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/hemebiotech/analytics/ISymptomReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/ISymptomReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/hemebiotech/analytics/AnalyticsCounter.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/com/hemebiotech/analytics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/hemebiotech/analytics/OrganiseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/OrganiseData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/hemebiotech/analytics/ReadSymptomDataFromFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/ReadSymptomDataFromFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/AnalyticsCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/OrganiseData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P2/com/hemebiotech/analytics/OrganiseData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P2/result.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/symptoms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/symptoms.txt" afterDir="false" />
     </list>
     <list id="0db6faff-6f43-458b-afe1-11fcf0205257" name="test 2" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +39,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1v268i6cLPcYeQUQakU1JQwWdli" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,6 +65,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSV/TSV/PSV" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">

@@ -1,5 +1,7 @@
 package com.hemebiotech.analytics;
 
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
 import java.lang.constant.Constable;
 import java.util.*;
 
@@ -37,10 +39,16 @@ public class OrganiseData {
         return this.tm;
     }
 
-    public void displayData(){ // show treemap values
+    public void displayData() throws FileNotFoundException { // show treemap values
+        PrintWriter writer = new PrintWriter("symptoms_out.csv");
         Set<Map.Entry<Integer, java.lang.constant.Constable>> set = this.formaliseData().entrySet();
         for (Map.Entry<Integer, java.lang.constant.Constable> mapentry : set) {
-            System.out.print(mapentry.getValue() + "\n");
+            /* System.out.print(mapentry.getValue() + "\n"); // displays data in the console */
+            writer.print(mapentry.getValue() + "\n");  // write the data to an output file
         }
+        writer.close();
     }
+
+
+
 }
