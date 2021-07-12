@@ -97,4 +97,8 @@ low blood pressure
 anxiety
 anxiety
 cough
+<<<<<<< HEAD
 blurred vision
+=======
+blurred vision
+>>>>>>> a401f9cd52464405b341d38c51be5afdf8df4e6a

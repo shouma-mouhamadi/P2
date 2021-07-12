@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="3533210b-802a-4523-b9e6-4a112271d5c1" name="Default Changelist" comment="test 2">
       <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Mission.pdf" afterDir="false" />
@@ -18,6 +19,11 @@
       <change beforePath="$PROJECT_DIR$/symptoms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/symptoms.txt" afterDir="false" />
     </list>
     <list id="0db6faff-6f43-458b-afe1-11fcf0205257" name="test 2" comment="" />
+=======
+    <list default="true" id="3533210b-802a-4523-b9e6-4a112271d5c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/com/hemebiotech/analytics/SymptomAnalysis.java" afterDir="false" />
+    </list>
+>>>>>>> a401f9cd52464405b341d38c51be5afdf8df4e6a
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -47,6 +54,10 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> a401f9cd52464405b341d38c51be5afdf8df4e6a
   <component name="ProjectId" id="1v268i6cLPcYeQUQakU1JQwWdli" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -64,6 +75,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+<<<<<<< HEAD
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSV/TSV/PSV" />
   </component>
@@ -73,6 +85,10 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
+=======
+  </component>
+  <component name="RunManager" selected="Application.SymptomAnalysis">
+>>>>>>> a401f9cd52464405b341d38c51be5afdf8df4e6a
     <configuration name="AnalyticsCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hemebiotech.analytics.AnalyticsCounter" />
       <module name="P2" />
@@ -86,6 +102,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hemebiotech.analytics.Main" />
       <module name="P2" />
@@ -99,6 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+>>>>>>> a401f9cd52464405b341d38c51be5afdf8df4e6a
     <configuration name="SymptomAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hemebiotech.analytics.SymptomAnalysis" />
       <module name="P2" />
@@ -114,9 +133,14 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.AnalyticsCounter" />
         <item itemvalue="Application.SymptomAnalysis" />
+=======
+        <item itemvalue="Application.SymptomAnalysis" />
+        <item itemvalue="Application.AnalyticsCounter" />
+>>>>>>> a401f9cd52464405b341d38c51be5afdf8df4e6a
       </list>
     </recent_temporary>
   </component>
@@ -124,12 +148,16 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3533210b-802a-4523-b9e6-4a112271d5c1" name="Default Changelist" comment="" />
+<<<<<<< HEAD
       <changelist id="0db6faff-6f43-458b-afe1-11fcf0205257" name="test 2" comment="" />
+=======
+>>>>>>> a401f9cd52464405b341d38c51be5afdf8df4e6a
       <created>1625747681599</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625747681599</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00001" summary="test 2">
       <created>1625831716320</created>
       <option name="number" value="00001" />
@@ -138,6 +166,8 @@
       <updated>1625831716320</updated>
     </task>
     <option name="localTasksCounter" value="2" />
+=======
+>>>>>>> a401f9cd52464405b341d38c51be5afdf8df4e6a
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +184,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+<<<<<<< HEAD
     <MESSAGE value="test 2" />
     <option name="LAST_COMMIT_MESSAGE" value="test 2" />
   </component>
@@ -161,5 +192,7 @@
     <SUITE FILE_PATH="coverage/P2$AnalyticsCounter.ic" NAME="AnalyticsCounter Coverage Results" MODIFIED="1625834183731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.hemebiotech.analytics.*</FILTER>
     </SUITE>
+=======
+>>>>>>> a401f9cd52464405b341d38c51be5afdf8df4e6a
   </component>
 </project>
