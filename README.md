@@ -19,6 +19,4 @@ I was then able to identify bugs and fix them like
 
 Finally, for a project like this, I used GitFlow. 
 
-Translated with www.DeepL.com/Translator (free version)
-
 
