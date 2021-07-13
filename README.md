@@ -1,21 +1,24 @@
 # P2
-DEBBUGER UNE APPLICATION JAVA
+DEBUGGING A JAVA APPLICATION
 
-Les compétences évaluées ici sont la compréhension du langage de programmation Java ainsi que la construction d'un projet de code collaboratif.
+The skills assessed here are understanding the Java programming language and building a collaborative code project.
 
-Ce projet d'analyse des données pour le laboratoire Heme Biotech a pour rôle de contrôler les dosages, les symptômes, les traitements, etc. 
+This is a data analysis project for the Heme Biotech laboratory to monitor dosages, symptoms, treatments, etc. 
 
-Pour améliorer la prédiction de leurs besoins, j'ai travaillé à la création d'un programme d'analyse des tendances. 
-Le programme est censé décrire le symptôme ainsi que le nombre d’occurrences. 
+To improve the prediction of their needs, I worked on creating a trend analysis program. 
+The program is supposed to describe the symptom and the number of occurrences. 
 
-Une liste de symptômes nous est fournie (symptoms.txt) mais le décompte des symptômes était d'abord incorrect. 
-J'ai pu alors identifier les bugs et les corriger comme
-•	le traitement des exceptions ;
-•	les non fermetures des ressources ;
-•	des variables qui se chevauchent ;
-•	l’approche du code pour qu’il soit réutilisable quel que soit le nombre de symptômes à suivre.
-•	les standards de développement (JavaDoc, commentaires inutiles, orientés objet, code simple et lisible, etc.)
+A list of symptoms is provided (symptoms.txt) but the symptom count was initially incorrect. 
+I was then able to identify bugs and fix them like
+- exception handling ;
+- non-closing of resources ;
+- overlapping variables;
+- approaching the code so that it is reusable regardless of the number of symptoms to be tracked.
+- sorting symptoms in alphabetical order
+- development standards (JavaDoc, unnecessary comments, object-oriented, simple and readable code, etc.)
 
-Enfin, pour un projet comme celui-ci, j'ai utilisé GitFlow. 
+Finally, for a project like this, I used GitFlow. 
+
+Translated with www.DeepL.com/Translator (free version)
 
 
